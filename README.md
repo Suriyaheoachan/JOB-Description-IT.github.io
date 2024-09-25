@@ -6,8 +6,8 @@
 ### 2.วัตุประสงค์ของตำแหน่งงาน
 
 ### 3.หน้าที่ความรับผืดชอบหลัก
-> :muscle: **Winspeed ,Myaccount** รับฟังปัญหาที่เกิดขึ้นกับ User  
-> :muscle: **CCTV ดูแลอุปกรณ์ที่เกี่ยวข้อง** เช่น เครื่องบันทึก ตัวกล้วงวงจรปิด  
-> :muscle: **Network(TOT,Trun,3BB)** คอยแก้ปัญหาที่เกิดขึ้น เช่น อินเทอร์เน็ตไม่สามารถใช้งานได้  
-> :muscle: **Hardware** ดูแลและซ่อมบำรุงอุปกรณ์ฮาร์ดแวร์ต่างๆ อาทิเช่น คอมพิวเตอร์ เครื่องปริ้น เครื่องสำรองไฟ(UPS)  
-[Test](https://suriyaheoachan.github.io/JOB-Description-IT.github.io/)
+>  **Winspeed ,Myaccount** รับฟังปัญหาที่เกิดขึ้นกับ User  [Winspeed]([https://suriyaheoachan.github.io/JOB-Description-IT.github.io/](https://www.prosoftwinspeed.com/Article/Detail/101104/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-WINSpeed-I?gad_source=1&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MZwfpzbACmMBuMfeTbTK3y0Ai7cYPj9PsbMSUfde1GH4Wx0abHdOIaAuQREALw_wcB))
+>  **CCTV ดูแลอุปกรณ์ที่เกี่ยวข้อง** เช่น เครื่องบันทึก ตัวกล้วงวงจรปิด  
+>  **Network(TOT,Trun,3BB)** คอยแก้ปัญหาที่เกิดขึ้น เช่น อินเทอร์เน็ตไม่สามารถใช้งานได้  
+>  **Hardware** ดูแลและซ่อมบำรุงอุปกรณ์ฮาร์ดแวร์ต่างๆ อาทิเช่น คอมพิวเตอร์ เครื่องปริ้น เครื่องสำรองไฟ(UPS)  
+
