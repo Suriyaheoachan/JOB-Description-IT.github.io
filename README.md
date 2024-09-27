@@ -2,7 +2,7 @@
 ## **Test-Nongnot**
 
 ### **1.โครงสร้างตำแหน่งงาน**
-![OC-800x600-2.jpg]
+![[OC-800x600-2.jpg](https://github.com/Suriyaheoachan/JOB-Description-IT.github.io/blob/main/img/OC-800x600-2.jpg)]()
 
 ### **2.วัตุประสงค์ของตำแหน่งงาน**
 
